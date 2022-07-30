@@ -2,8 +2,8 @@
 - 👀 I’m interested in Web Development & Data Science
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any web based project
-- 📫 How to reach me 
-- tikram179@gmail.com
+- 📫 How to reach me : tikram179@gmail.com
+
 
 <!---
 Diem0n/Diem0n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
