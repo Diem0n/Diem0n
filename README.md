@@ -62,6 +62,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diem0n&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<h1 align="center">
+  Badge Board
+</h1>
+
+[![@diem0n's Holopin board](https://holopin.me/diem0n)](https://holopin.io/@diem0n)
+
 
 
 <!---
