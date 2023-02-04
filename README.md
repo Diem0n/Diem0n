@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://cdn4.hifigif.co/picture/original/nUE0pUZ6Yl90nUIgLaZhM_M5L_S0YzAioF9FMJ1upzguLzkyEaWcM_u0MJ5yMRAcL_SxLF1moJSfoP5anJLcXltbFTyTnHqWEv5wolyspzIgLKWeLJWfMJMlnJqbqTIhMJEwnJAuMTRgp_1uoTjhM_yz/(HiFiGIF.co)_filthy-frank-small.gif" width="400" />
-  </div>
+
 
 <h1 align="center">
   Hey there
