@@ -12,7 +12,7 @@
 
 :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-:seedling: I’m currently learning React
+:seedling: I’m currently learning React Native
 
 :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
@@ -65,11 +65,6 @@
 </h1>
 
 [![@diem0n's Holopin board](https://holopin.me/diem0n)](https://holopin.io/@diem0n)
-
-
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
 
 <!---
 Diem0n/Diem0n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
