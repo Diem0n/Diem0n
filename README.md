@@ -10,13 +10,7 @@
 <img src="https://media.giphy.com/media/zOx4kKZLsfuqShoh2t/giphy.gif" width="20"> I’m @Diem0n, a guy with keyboard from Pakistan. <br>
 
 
-:telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-:seedling: I’m currently learning React Native
-
-:zap: In my free time, I solve problems on LeetCode and read tech articles.
-
-👀 I’m interested in Web Development & Data Science
+:telescope: I’m currently working as a full stack web developer focused on creating unique digital experiences
 
 💞️ I’m looking to collaborate on any web based project
 
