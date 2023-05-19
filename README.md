@@ -45,12 +45,6 @@
 </div>
 
 
-<h1 align="center">
-  My stats
-  <img src="https://media.giphy.com/media/AynUwd5uKhIevEWx54/giphy.gif" width="30px" />
-</h1>
-
-
 
 <h1 align="center">
   Badge Board
