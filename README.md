@@ -16,7 +16,7 @@
 
 📫 How to reach me : tikram179@gmail.com
 
-![Activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=diem0n&theme=react-dark)
+<!-- ![Activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=diem0n&theme=react-dark) -->
 
 
 <h1 align="center">
