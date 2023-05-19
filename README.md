@@ -50,9 +50,7 @@
   <img src="https://media.giphy.com/media/AynUwd5uKhIevEWx54/giphy.gif" width="30px" />
 </h1>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Diem0n&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diem0n&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center">
   Badge Board
