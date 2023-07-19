@@ -15,7 +15,11 @@
 
 📫 How to reach me : tikram179@gmail.com
 
-<!-- ![Activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=diem0n&theme=react-dark) -->
+
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=diem0n)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 
 <h1 align="center">
