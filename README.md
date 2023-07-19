@@ -7,7 +7,6 @@
 
 
 
-<img src="https://media.giphy.com/media/zOx4kKZLsfuqShoh2t/giphy.gif" width="20"> I’m @Diem0n, a guy with keyboard from Pakistan. <br>
 
 
 :telescope: I’m currently working as a full stack web developer focused on creating unique digital experiences
