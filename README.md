@@ -16,16 +16,19 @@
 📫 How to reach me : tikram179@gmail.com
 
 
+<h1 align="center">
+Achievements  
+  </h1>
+
  
  [![trophy](https://github-profile-trophy.vercel.app/?username=diem0n)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
-
 <h1 align="center">
-  My tool box
-  <img src="https://media.giphy.com/media/7TkSOPplgsyfaxoeDa/giphy.gif" width="30px"/>
-</h1>
+Languages, Frameworks, and Tools  
+  </h1>
+
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -51,13 +54,14 @@
 </div>
 
 
+<!---
 
 <h1 align="center">
   Badge Board
 </h1>
 
 [![@diem0n's Holopin board](https://holopin.me/diem0n)](https://holopin.io/@diem0n)
-
+--->
 <!---
 Diem0n/Diem0n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
