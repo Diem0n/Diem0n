@@ -5,27 +5,40 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+ ⚒ I’m currently working on fusing data science and web development to craft innovative solutions
 
-
-
-
-:telescope: I’m currently working as a full stack web developer focused on creating unique digital experiences
-
-💞️ I’m looking to collaborate on any web based project
+💞️ I’m looking to collaborate on any web based or datascience project 
 
 📫 How to reach me : tikram179@gmail.com
+
+<div align="center">
+  
+  <h1>
+    Support My Journey
+  <img src="https://media.giphy.com/media/Jmx86r59Veps79rpRf/giphy.gif" height="60px"/>
+  </h1>
+  <p>If you find my work valuable or just want to show your appreciation, you can buy me a coffee to support my efforts.</p>
+  <a href="https://www.buymeacoffee.com/quantumquill">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="quantumquill" />
+  </a>
+</div>
 
 
 <h1 align="center">
 Achievements  
-  </h1>
+    <img src="https://media.giphy.com/media/JqYrtRLKd495gN2HKb/giphy.gif" height="40px" />
 
+  </h1>
+<div align="center" >
+  
  
  [![trophy](https://github-profile-trophy.vercel.app/?username=diem0n)](https://github.com/ryo-ma/github-profile-trophy)
 
+</div>
 
-<h1 align="center">
+<h1 align="center" >
 Languages, Frameworks, and Tools  
+  <img src="https://media.giphy.com/media/fQom5HUEHPz8q534S4/giphy.gif" height="35px" />
   </h1>
 
 
