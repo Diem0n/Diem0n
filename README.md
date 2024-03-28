@@ -34,6 +34,9 @@ Achievements
  
  [![trophy](https://github-profile-trophy.vercel.app/?username=diem0n)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+<p><img align="center" src="https://streak-stats.demolab.com?user=diem0n&theme=tokyonight&hide_border=true" alt="diem0n" /></p>
+
 </div>
 
 <h1 align="center" >
@@ -65,6 +68,8 @@ Languages, Frameworks, and Tools
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" **alt="Tensorflow" width="40" height="40"/>&nbsp;
 </div>
+<p><br><br></p>
+
 
 
 <!---
