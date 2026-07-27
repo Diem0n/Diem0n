@@ -116,7 +116,6 @@ If you enjoy my projects or find them useful, you can support my work here:
 
 <div align="center">
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=diem0n&theme=tokyonight&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://streak-stats.demolab.com?user=diem0n&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
