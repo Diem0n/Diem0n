@@ -68,6 +68,9 @@ Benchmarked 20+ LLMs across domain tasks and reviewed 20+ SOTA papers on causal 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" title="Redis" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" title="SQLite" width="40" height="40"/>
   <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black" alt="DuckDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" title="Swift" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/d3js/d3js-original.svg" width="40" height="40" title="D3" />
+          
 </p>
 
 **ML, Explainability & BI**
@@ -92,6 +95,9 @@ Benchmarked 20+ LLMs across domain tasks and reviewed 20+ SOTA papers on causal 
 
 **💳 [ledger-ai](https://github.com/Diem0n/ledger-ai)** · Python, DuckDB, Scikit-learn, SHAP, FastAPI
 Fraud investigation engine: leak-safe SQL feature pipeline over 24.4M transactions, hybrid Isolation Forest + Random Forest at 0.97+ PR-AUC, tiered risk routing catching ~98% of fraud at 75-80% review precision.
+
+**📚 [ai_papers](https://github.com/Diem0n/ai_papers)** · Swift, SwiftUI, SwiftData, WidgetKit, Ollama, D3
+Native macOS research companion for AI engineers: pulls daily papers from arXiv and Hugging Face, judges each against your own stack (applies / maybe / not for you, with the change and effort), builds a claims ledger and implementation plans, and answers questions over your archive with citations. Runs on a local model by default; an optional privacy tier lets you choose exactly what reaches a cloud model.
 
 **📡 [insight](https://github.com/Diem0n/insight)** · Python, LangChain, FAISS, SQLite, Gemini
 Telecom retention copilot: routes queries between a safe SQL tool and RAG retrieval with zero cross-contamination, enforcing strict numeric grounding so the model never cites a number it wasn't given.
